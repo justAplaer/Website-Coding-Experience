@@ -6,6 +6,5 @@ Diary
 
   
 Energy Efficiency Calculator
-    
-    An interactive Flask web app that estimates a home’s energy efficiency from its size, lighting, and number of electrical devices. It guides users through a visual multi-step calculator, gives feedback based on the result, and includes a form for requesting an eco-friendly home setup. An early independent project combining Python logic, routing, forms, and frontend design.
+     An interactive Flask web app that estimates a home’s energy efficiency from its size, lighting, and number of electrical devices. It guides users through a visual multi-step calculator, gives feedback based on the result, and includes a form for requesting an eco-friendly home setup. An early independent project combining Python logic, routing, forms, and frontend design.
 
